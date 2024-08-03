@@ -11,3 +11,4 @@
 - [Camen Case 4](/Week1/Camel-Case-4.js)
 - [Divisible Sum Pairs](/Week1/Divisible-Sum-Pairs.js)
 - [Sparse Arrays](/Week1/Sparse-Arrays.js)
+- [Mock Test - Find the Median](/Week1/WeeklyTest_Find-the-Median.js)
