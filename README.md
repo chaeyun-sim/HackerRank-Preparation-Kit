@@ -12,3 +12,8 @@
 - [Divisible Sum Pairs](/Week1/Divisible-Sum-Pairs.js)
 - [Sparse Arrays](/Week1/Sparse-Arrays.js)
 - [Mock Test - Find the Median](/Week1/WeeklyTest_Find-the-Median.js)
+
+### 2주차
+
+- [Lonly Integer](/Week2/Lonely-Integer.js)
+- [Grading Students](/Week2/Grading-Students.js)
