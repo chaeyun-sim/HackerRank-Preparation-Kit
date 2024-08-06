@@ -17,3 +17,5 @@
 
 - [Lonly Integer](/Week2/Lonely-Integer.js)
 - [Grading Students](/Week2/Grading-Students.js)
+- [Flipping bits](/Week2/Flipping-bits.js)
+- [Diagonal Difference](/Week2/Diagonal-Difference.js)
