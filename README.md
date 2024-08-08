@@ -19,3 +19,5 @@
 - [Grading Students](/Week2/Grading-Students.js)
 - [Flipping bits](/Week2/Flipping-bits.js)
 - [Diagonal Difference](/Week2/Diagonal-Difference.js)
+- [Counting Sort 1](/Week2/Counting-Sort-1.js)
+- [Counting Valleys](/Week2/Couting-Valleys.js)
