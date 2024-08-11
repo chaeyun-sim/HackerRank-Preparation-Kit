@@ -21,3 +21,6 @@
 - [Diagonal Difference](/Week2/Diagonal-Difference.js)
 - [Counting Sort 1](/Week2/Counting-Sort-1.js)
 - [Counting Valleys](/Week2/Couting-Valleys.js)
+- [Pangrams](/Week2/Pangrams.js)
+- [Mars Exploration](/Week2/Mars-Exploration.js)
+- [Mock Test - Flipping the Matrix](/Week2/WeeklyTest_Flipping-the-Matrix.js)
