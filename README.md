@@ -24,3 +24,8 @@
 - [Pangrams](/Week2/Pangrams.js)
 - [Mars Exploration](/Week2/Mars-Exploration.js)
 - [Mock Test - Flipping the Matrix](/Week2/WeeklyTest_Flipping-the-Matrix.js)
+
+### 3주차
+
+- [Permuting Two Arrays](/Week3/Permuting-Two-Arrays.js)
+- [Subarray Division 2](/Week3/Subarray-Division-2.js)
