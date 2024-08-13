@@ -29,3 +29,4 @@
 
 - [Permuting Two Arrays](/Week3/Permuting-Two-Arrays.js)
 - [Subarray Division 2](/Week3/Subarray-Division-2.js)
+- [XOR String 3](/Week3/XOR-String-3.js)
