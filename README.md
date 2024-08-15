@@ -30,3 +30,6 @@
 - [Permuting Two Arrays](/Week3/Permuting-Two-Arrays.js)
 - [Subarray Division 2](/Week3/Subarray-Division-2.js)
 - [XOR String 3](/Week3/XOR-String-3.js)
+- [Sales by Match](/Week3/Sales-by-Match.js)
+- [Migratory Birds](/Week3/Migratory-Birds.js)
+- [Maximum Perimeter Triangle](/Week3/Maximum-Perimeter-Triangle.js)
