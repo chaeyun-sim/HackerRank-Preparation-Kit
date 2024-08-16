@@ -33,3 +33,4 @@
 - [Sales by Match](/Week3/Sales-by-Match.js)
 - [Migratory Birds](/Week3/Migratory-Birds.js)
 - [Maximum Perimeter Triangle](/Week3/Maximum-Perimeter-Triangle.js)
+- [Zig Zag Sequence](/Week3/Zig-Zag-Sequence.js)
